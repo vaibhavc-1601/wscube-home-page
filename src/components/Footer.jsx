@@ -18,7 +18,7 @@ export default function Footer() {
         <div>
           <h2 className="text-xl font-semibold mb-4">WsCube Tech</h2>
           <p className="text-gray-400 text-sm">
-            Building the digital future with web, app, and marketing solutions tailored for your business growth.
+            Building the digital futures with web, app, and marketing solutions tailored for your business growth.
           </p>
         </div>
 
