@@ -4,6 +4,7 @@ import Banner from './components/Banner'
 import Experts from './components/Experts'
 import Newsletter from './components/Newsletter'
 import Plans from './components/Plans'
+import Footer from './components/Footer'
 const App = () => {
   return (
     <>
@@ -12,6 +13,7 @@ const App = () => {
     <Experts/>
     <Newsletter/>
     <Plans/>
+    <Footer/>
     
     </>
   )
